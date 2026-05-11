@@ -3,6 +3,15 @@
 A personal expense tracker built with Flutter. Keep track of where your money goes, secured behind a PIN. as required by the rubrics.
 
 ---
+## Group Memebers
+
+- Dagim Melese          ATE/4246/15   
+- Eyuel Fikru           ATE/0634/15
+- Haile Zigale          ATE/1860/15
+- Paulos Haile-Michael  ATE/8171/15
+
+---
+
 
 # What it does
 
