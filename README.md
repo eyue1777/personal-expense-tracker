@@ -213,3 +213,10 @@ This project demonstrates local storage and persistence in Flutter using:
 - **shared_preferences** for lightweight app settings such as theme and currency
 
 Data remains available even after the app is closed or restarted.
+
+# Ai prompts used
+
+- I am building a Flutter expense tracker for a graded lab. I need to set up the data persistence layer following a clean service-based architecture. Please generate a guide so i can follow to create the first layer of the app.
+- Generate the incomplete parts of the three service files for  data persistence
+- Build the authentication UI.
+- Review the project structure for clean code compliance.
