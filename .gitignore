@@ -1,0 +1,93 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+.pubspec.lock
+
+# Build outputs
+/build/
+/ios/Flutter/.last_build_id
+
+# Generated files
+**/generated_plugin_registrant.dart
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/key.properties
+/android/.gradle/
+/android/captures/
+/android/local.properties
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Runner.xcworkspace/
+/ios/Runner/GeneratedPluginRegistrant.*
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.podspec
+/ios/ServiceDefinitions.json
+/ios/Runner/Info.plist
+
+# macOS
+/macos/Pods/
+/macos/Flutter/ephemeral/
+/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Linux
+/linux/flutter/ephemeral/
+/linux/flutter/generated_plugin_registrant.cc
+/linux/flutter/generated_plugins.cmake
+/linux/flutter/generated_plugin_registrant.h
+
+# Windows
+/windows/flutter/ephemeral/
+/windows/flutter/generated_plugin_registrant.cc
+/windows/flutter/generated_plugins.cmake
+/windows/flutter/generated_plugin_registrant.h
+
+# Web
+/web/.dart_tool/
+
+# Coverage
+/coverage/
+
+# Firebase
+firebase.json
+.flutterfire/
+
+# Secrets / env
+.env
+*.jks
+*.keystore
+
+# Temporary files
+*.tmp
+*.temp
